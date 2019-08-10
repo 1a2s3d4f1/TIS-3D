@@ -31,7 +31,7 @@
             "li.cil.tis3d.client.init.BootstrapClient"
         ]
     },
-    "requires": {
+    "depends": {
         "fabricloader": ">=0.4.1",
         "fabric": ">=0.2.7"
     },
